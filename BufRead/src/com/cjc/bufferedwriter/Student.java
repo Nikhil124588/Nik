@@ -11,10 +11,10 @@ public void setId(int id) {
 	this.id = id;
 }
 public String getName() {
-	return name;
+	return name1;
 }
 public void setName(String name1) {
-	this.name = name1;
+	this.name1 = name1;
 }
 public String getAddr() {
 	return addr;
