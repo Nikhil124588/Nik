@@ -22,5 +22,6 @@ public String getAddr() {
 }
 public void setAddr(String addr) {
 	this.addr = addr;
+	nik made chnges in code to merge
 }
 }
