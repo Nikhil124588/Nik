@@ -15,6 +15,7 @@ public String getName() {
 }
 public void setName(String name1) {
 	this.name1 = name1;
+	nikhill made chnges
 }
 public String getAddr() {
 	return addr;
